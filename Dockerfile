@@ -1,1 +1,2 @@
-FROM developeranaz/aria2rclone-alpha:latest
+FROM ubuntu:latest
+RUN apt update -y
